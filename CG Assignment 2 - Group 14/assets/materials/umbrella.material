@@ -1,0 +1,4 @@
+PBR
+textureAlbedo: umbrellaBOTTOM.png
+float: uRoughness 0.0
+float: uMetallic 0.0

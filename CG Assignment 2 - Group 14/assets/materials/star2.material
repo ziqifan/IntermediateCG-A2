@@ -1,0 +1,4 @@
+PBR
+textureAlbedo: star2.png
+float: uRoughness 0.0
+float: uMetallic 0.0
